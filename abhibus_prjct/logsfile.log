@@ -1,0 +1,18 @@
+2024-07-23 20:46:44,829 :INFO :test_abhiBus :These are Origin starting details
+2024-07-23 20:46:45,228 :INFO :test_abhiBus :These are destination reaching details
+2024-07-23 20:47:24,297 :INFO :test_abhiBus :These are Origin starting details
+2024-07-23 20:47:24,527 :INFO :test_abhiBus :These are destination reaching details
+2024-07-23 20:47:29,825 :DEBUG :test_abhiBus :These are filters used
+2024-07-23 20:47:30,167 :INFO :test_abhiBus :This is bus type
+2024-07-23 20:47:35,356 :INFO :test_abhiBus :This is seat selection details
+2024-07-23 20:47:35,445 :INFO :test_abhiBus :Theses are boarding point details
+2024-07-23 20:47:35,645 :INFO :test_abhiBus :These are dropping point details
+2024-07-23 20:47:35,848 :INFO :test_abhiBus :This is selecting seat details
+2024-07-23 20:52:33,037 :INFO :test_abhiBus :These are Origin starting details
+2024-07-23 20:52:33,251 :INFO :test_abhiBus :These are destination reaching details
+2024-07-23 20:52:38,531 :DEBUG :test_abhiBus :These are filters used
+2024-07-23 20:52:38,898 :INFO :test_abhiBus :This is bus type
+2024-07-23 20:52:44,124 :INFO :test_abhiBus :This is seat selection details
+2024-07-23 20:52:44,217 :INFO :test_abhiBus :Theses are boarding point details
+2024-07-23 20:52:44,400 :INFO :test_abhiBus :These are dropping point details
+2024-07-23 20:52:44,540 :INFO :test_abhiBus :This is selecting seat details
